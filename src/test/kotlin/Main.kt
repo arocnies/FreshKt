@@ -13,11 +13,11 @@ FreshKt idea:
 
  */
 
-fun main(args: Array<String>) {
-//    render(document.getElementById("root")) {
-//
-//    }
-}
+//fun main(args: Array<String>) {
+////    render(document.getElementById("root")) {
+////
+////    }
+//}
 
 /*
 Component:
